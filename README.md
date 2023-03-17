@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 * <KUBIG> 성북구 데이트코스 추천 챗봇 프로젝트
 
-2023-1학기
+2023
 
 * <KUBIG> 다변량 분석 스터디
 
