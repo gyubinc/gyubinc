@@ -15,21 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-2022-1학기
+# Education
+
+2018 고려대학교 산업경영공학부 입학 (3학년 수료)
+
+# Project
+
+2022
 
 * <딥러닝> CNN 기반 Cifar10 Classifier 프로젝트
 
 * <인간공학> 쿠팡 웹사이트 UI 개선 프로젝트
-
-2022-여름
 
 * <KUBIG> 머신러닝 세션
 
 * <KUBIG> 기업 파산 예측 프로젝트
 
 * <KUBIG> 심리 성향 예측 AI 경진대회
-
-2022-2학기
 
 * <KUBIG> 커뮤니티 사이트 '고파스' 감정분석 및 조회수 예측 프로젝트
 
@@ -44,8 +46,6 @@ Here are some ideas to get you started:
 * <최적화 응용> 정통 머신러닝 기반 차량 가격 예측 프로젝트
 
 * <최적화 응용> 양자어닐링 기반 데이터 클러스터링 프로젝트
-
-2022-겨울
 
 * <KUBIG> NLP 세션
 
