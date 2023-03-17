@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Education
 
-2018 고려대학교 산업경영공학부 입학 (3학년 수료)
+2018 고려대학교 산업경영공학부 입학
 
 # Experience
 
