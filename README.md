@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 2018 고려대학교 산업경영공학부 입학 (3학년 수료)
 
+# Experience
+
+2019 고려대학교 산업경영공학부 제 36대 학생회장
+
+2022 고려대학교 데이터 사이언스 학회 KUBIG
+
 # Project
 
 2022
