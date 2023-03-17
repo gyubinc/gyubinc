@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Project
 
-2022
+## 2022
 
 * <딥러닝> CNN 기반 Cifar10 Classifier 프로젝트
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 * <KUBIG> 성북구 데이트코스 추천 챗봇 프로젝트
 
-2023
+## 2023
 
 * <KUBIG> 다변량 분석 스터디
 
