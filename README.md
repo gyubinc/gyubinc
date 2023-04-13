@@ -58,5 +58,7 @@ Here are some ideas to get you started:
 ## 2023
 
 * <KUBIG> 다변량 분석 스터디
+  
+* <Boost Camp> 한국어 STS 프로젝트 (진행 중)
 
 
