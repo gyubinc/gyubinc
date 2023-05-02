@@ -63,6 +63,6 @@ Here are some ideas to get you started:
   
 * <KUBIG> 침착맨 음성대화 챗봇 제작 프로젝트 (진행 중)
   
-* <Boost Camp> 한국어 STS 프로젝트 (진행 중)
+* <Boost Camp> 한국어 STS 프로젝트
 
 
