@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 2022 고려대학교 데이터 사이언스 학회 KUBIG
 
+2023 BoostCamp AI Tech 5기
+
 # Project
 
 ## 2022
