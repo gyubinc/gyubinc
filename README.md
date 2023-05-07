@@ -60,11 +60,13 @@ Here are some ideas to get you started:
 * <KUBIG> 성북구 데이트코스 추천 챗봇 프로젝트
 
 ## 2023
+  
+* <Boost Camp> 한국어 STS 프로젝트
 
 * <KUBIG> 다변량 분석 스터디 (진행 중)
   
 * <KUBIG> 침착맨 음성대화 챗봇 제작 프로젝트 (진행 중)
   
-* <Boost Camp> 한국어 STS 프로젝트
+
 
 
