@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 # Education
 
 2018 고려대학교 산업경영공학부 입학
@@ -26,8 +28,6 @@ Here are some ideas to get you started:
 2023 BoostCamp AI Tech 5기
 
 # Project 
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ## 2022
 
