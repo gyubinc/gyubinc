@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 2023 BoostCamp AI Tech 5기
 
-# Project
+# Project 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ## 2022
 
