@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 ## 2023
   
 * <Boost Camp> 한국어 STS 프로젝트
+  
+* <Boost Camp> KLUE RE Task 프로젝트
 
 * <KUBIG> 다변량 분석 스터디 (진행 중)
   
