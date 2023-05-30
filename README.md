@@ -67,6 +67,8 @@ Here are some ideas to get you started:
   
 * <Boost Camp> KLUE RE Task 프로젝트
 
+* Data-Centric 프로젝트 (진행 중)
+  
 * <KUBIG> 다변량 분석 스터디 (진행 중)
   
 * <KUBIG> 침착맨 음성대화 챗봇 제작 프로젝트 (진행 중)
