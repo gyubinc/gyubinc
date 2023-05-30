@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
+# 열쩡 열쩡 열쩡~
+
 # Education
 
 2018 고려대학교 산업경영공학부 입학
