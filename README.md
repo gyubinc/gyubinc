@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-<h1 align="center">열쩡 열쩡 열쩡</h1>
+<h1 align="center">열정 열정 열정~</h1>
 
 # Education
 
