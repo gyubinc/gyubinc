@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 * <인간공학> 쿠팡 웹사이트 UI 개선 프로젝트
 
-* <KUBIG> 머신러닝 세션
+* <KUBIG> 머신러닝 세션(교육)
 
 * <KUBIG> 기업 파산 예측 프로젝트
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 * <최적화 응용> 양자어닐링 기반 데이터 클러스터링 프로젝트
 
-* <KUBIG> NLP 세션
+* <KUBIG> NLP 세션(교육)
 
 * <KUBIG> 성북구 데이트코스 추천 챗봇 프로젝트
 
