@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 * <Boost Camp> Data-Centric 프로젝트
   
-* <Boost Camp> MRC(Machine Reading Comprehension) 프로젝트 (진행 중)
+* <Boost Camp> MRC(Machine Reading Comprehension) 프로젝트
   
 * <KUBIG> 다변량 분석 스터디
   
