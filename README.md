@@ -78,3 +78,5 @@ Here are some ideas to get you started:
 * <KUBIG> 침착맨 음성대화 챗봇 제작 프로젝트
 
 * <Boost Camp> 최종 프로젝트
+
+* <Boost Camp> 맞춤형 음악 생성 서비스
