@@ -65,18 +65,18 @@ Here are some ideas to get you started:
 
 ## 2023
   
-* <Boost Camp> 한국어 STS(Semantic Textual Similarity) 프로젝트
+* <BoostCamp> 한국어 STS(Semantic Textual Similarity) 프로젝트
   
-* <Boost Camp> KLUE RE(Relation_Extraction) 프로젝트
+* <BoostCamp> KLUE RE(Relation_Extraction) 프로젝트
 
-* <Boost Camp> Data-Centric 프로젝트
+* <BoostCamp> Data-Centric 프로젝트
   
-* <Boost Camp> MRC(Machine Reading Comprehension) 프로젝트
+* <BoostCamp> MRC(Machine Reading Comprehension) 프로젝트
   
 * <KUBIG> 다변량 분석 스터디
   
 * <KUBIG> 침착맨 음성대화 챗봇 제작 프로젝트
 
-* <Boost Camp> 최종 프로젝트
+* <BoostCamp> 최종 프로젝트
 
-* <Boost Camp> 맞춤형 음악 생성 서비스
+* <BoostCamp> 맞춤형 음악 생성 서비스
