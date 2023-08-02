@@ -21,12 +21,27 @@ Here are some ideas to get you started:
 <br>
 
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <br>
 
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/transformers-FFFF33?style=for-the-badge">
+<img src="https://img.shields.io/badge/pytorch_lightning-EE4C2C?style=for-the-badge&logo=lightning&logoColor=#792EE5">
+<br>
+
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+
+</div>
+
+<div align="center">
+
+# ⚒Tools⚒
+
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 <br>
 
 <img src="https://img.shields.io/badge/Audacity-0000cc?style=for-the-badge&logo=Audacity&logoColor=white">
@@ -35,9 +50,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/transformers-FFFF33?style=for-the-badge">
-<img src="https://img.shields.io/badge/pytorch_lightning-EE4C2C?style=for-the-badge&logo=lightning&logoColor=#792EE5">
 
 </div>
 
