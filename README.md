@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hello%20World&fontSize=60&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Hello,%20stranger&fontSize=55&descSize=30)
 
 <div align="center">
   
@@ -112,3 +112,5 @@
 * <KUBIG> 침착맨 음성대화 챗봇 제작 프로젝트 [(repo)](https://github.com/gyubinc/Voice-Chatbot-Project)
 
 * <BoostCamp> 텍스트 기반 맞춤형 음악 생성 서비스 [(repo)](https://github.com/gyubinc/TexTuneS_Text2Music_Generation)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer)
