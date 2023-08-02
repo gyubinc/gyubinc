@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+# 📚 Experience in NLP
+
+**(STS, RE, MRC, ODQA, NER, TC, NLI, MT, TTS, Summarization, Sentiment Analysis, Text Generation)**
+
+</div>
 
 <div align="center">
   
