@@ -77,4 +77,4 @@ Here are some ideas to get you started:
   
 * <KUBIG> 침착맨 음성대화 챗봇 제작 프로젝트 [(repo)](https://github.com/gyubinc/Voice-Chatbot-Project)
 
-* <BoostCamp> 맞춤형 음악 생성 서비스 [(repo)](https://github.com/gyubinc/TexTuneS_Text2Music_Generation)
+* <BoostCamp> 텍스트 기반 맞춤형 음악 생성 서비스 [(repo)](https://github.com/gyubinc/TexTuneS_Text2Music_Generation)
