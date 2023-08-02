@@ -4,7 +4,7 @@
   
 # 📚 Experience in NLP
 
-**(STS, RE, MRC, ODQA, NER, TC, NLI, MT, TTS, Summarization, Sentiment Analysis, Text Generation)**
+**STS, RE, MRC, ODQA, NER, TC, NLI, MT, TTS, Summarization, Sentiment Analysis, Text Generation**
 
 </div>
 
