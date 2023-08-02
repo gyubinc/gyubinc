@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 
 * <BoostCamp> 최종 프로젝트
 
-* <BoostCamp> 맞춤형 음악 생성 서비스[링크](https://github.com/gyubinc/TexTuneS_Text2Music_Generation)
+* <BoostCamp> 맞춤형 음악 생성 서비스[(링크)](https://github.com/gyubinc/TexTuneS_Text2Music_Generation)
