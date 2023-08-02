@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 
 ## 2023
   
-* <BoostCamp> 한국어 STS(Semantic Textual Similarity) 프로젝트
+* <BoostCamp> 한국어 STS(Semantic Textual Similarity) 프로젝트 [(repo)]
   
-* <BoostCamp> KLUE RE(Relation_Extraction) 프로젝트
+* <BoostCamp> KLUE RE(Relation_Extraction) 프로젝트 [(repo)]
 
-* <BoostCamp> Data-Centric 프로젝트
+* <BoostCamp> Data-Centric 프로젝트 [(repo)]
   
-* <BoostCamp> MRC(Machine Reading Comprehension) 프로젝트
+* <BoostCamp> MRC(Machine Reading Comprehension) 프로젝트 [(repo)](https://github.com/gyubinc/MRC-Project)
   
 * <KUBIG> 다변량 분석 스터디
   
