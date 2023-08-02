@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Audacity-0000cc?style=for-the-badge&logo=Audacity&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
-
-
-
-
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/transformers-FFFF33?style=for-the-badge"> <img src="https://img.shields.io/badge/pytorch_lightning-EE4C2C?style=for-the-badge&logo=lightning&logoColor=#792EE5">
 
 </div>
