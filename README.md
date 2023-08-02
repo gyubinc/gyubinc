@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/transformers-FFFF33?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/pytorch_lightning-EE4C2C?style=for-the-badge&logo=lightning&logoColor=#792EE5">
+
 
 <h1 align="center">:fire:오히려 좋아:fire:</h1>
 
