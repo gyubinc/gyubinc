@@ -63,7 +63,9 @@
 
 # Project 
 
-## 2022
+<details>
+<summary><h2>2022</h2></summary>
+<div markdown="1">
 
 * <딥러닝> CNN 기반 Cifar10 Classifier 프로젝트
 
@@ -94,6 +96,9 @@
 * <KUBIG> NLP 세션(교육)
 
 * <KUBIG> 성북구 데이트코스 추천 챗봇 프로젝트
+
+</div>
+</details>
 
 ## 2023
   
