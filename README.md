@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hello,%20stranger&fontSize=55&descSize=30)
-
 <div align="center">
-  
+
 # 📚 Experience in NLP
 
 **STS, RE, MRC, ODQA, NER, TC, NLI, MT, TTS, Summarization, Sentiment Analysis, Text Generation**
@@ -45,7 +44,6 @@
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <br>
-
 
 </div>
 
