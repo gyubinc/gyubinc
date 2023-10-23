@@ -116,4 +116,8 @@
 
 * <BoostCamp> 텍스트 기반 맞춤형 음악 생성 서비스 [(repo)](https://github.com/gyubinc/TexTuneS_Text2Music_Generation)
 
+* (화성시) AI기법에 의한 인구예측모델 정확도 비교 분석 [(repo)](https://github.com/gyubinc/Hwaseong_Population_Forecasting)
+
+  - 우수상(2위)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer)
