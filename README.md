@@ -47,8 +47,6 @@
 
 </div>
 
-<h1 align="center">:fire:오히려 좋아:fire:</h1>
-
 # Education
 
 2018 고려대학교 산업경영공학부 입학
