@@ -122,4 +122,6 @@
 
 * 특허 분석을 위한 자연어처리 기반 특허 검색 파이프라인 구축 프로젝트 [(repo)](https://github.com/gyubinc/Patent_IPC_Classification)
 
+  - 한국지식재산교육연구학회 학회장상
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer)
