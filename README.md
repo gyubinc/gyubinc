@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hello,%20stranger&fontSize=55&descSize=30)
 <div align="center">
 
-# 📚 Experience in NLP
+# 📚 Interested in
 
-**STS, RE, MRC, ODQA, NER, TC, NLI, MT, TTS, Summarization, Sentiment Analysis, Text Generation**
+**Knowledge Editing**
 
 </div>
 
