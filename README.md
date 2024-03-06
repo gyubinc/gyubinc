@@ -61,8 +61,10 @@
 
 # Project 
 
+## 2022
+
 <details>
-<summary><h2>2022</h2></summary>
+<summary> details </summary>
 <div markdown="1">
 
 * <딥러닝> CNN 기반 Cifar10 Classifier 프로젝트
