@@ -43,21 +43,12 @@ Major GPA: 4.21 / 4.5 | Overall GPA: 3.85 / 4.5
 ## 💼 Experience
 
 **VAIV Company** | Research Intern | *Jul. 2025 – Present*  
-- Conducting research on Mixture-of-Experts architectures
-- Dispatched from SNU GSDS
 
 **HOLI Lab, Seoul National University** | Research Intern | *Dec. 2023 – Sep. 2024*  
-- Research on Knowledge Editing in Large Language Models
-- **Published:** "Context-Robust Knowledge Editing for Language Models", ACL Findings 2025
-- Investigating Mixture-of-Experts (MoE) architectures and controllable LLM behavior
 
 **Naver BoostCamp AI Tech NLP (5th)** | *Mar. 2023 – Aug. 2023*  
-- Studied overall NLP knowledge and development coding skills
-- Carried out several intensive NLP projects
 
 **KUBIG (Data Science Academic Society)** | *Jul. 2022 – Jun. 2023*  
-- Learned about Deep Learning & NLP; studied Time Series & Multivariate Data Analysis
-- Carried out several DL & NLP based projects
 
 ---
 
