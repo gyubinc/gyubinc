@@ -32,11 +32,11 @@ My research interests include:
 
 **Seoul National University** | *Sep. 2024 – Present*  
 M.S. in Data Science (Expected Aug. 2026)  
-Research focus: Large Language Models, Knowledge Editing, Mixture-of-Experts
+
 
 **Korea University** | *Mar. 2018 – Sep. 2024*  
 B.S. in Industrial and Management Engineering  
-Major GPA: 4.21 / 4.5 | Overall GPA: 3.85 / 4.5
+
 
 ---
 
