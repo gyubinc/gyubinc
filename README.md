@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyubinc&layout=compact&theme=dracula) -->
+
+
 
 ## 👋 Hi, I'm Gyubin Choi
 
@@ -82,6 +83,12 @@ Haewon Park, Gyubin Choi
 <div align="center">
 
 **For more details, visit my [portfolio website](https://gyubinc.github.io) 🌐**
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyubinc&theme=dark&show_icons=true&cache_seconds=0) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyubinc&cache_seconds=0) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyubinc&layout=compact&theme=dracula&cache_seconds=0)
 
 </div>
 
