@@ -32,7 +32,7 @@ My research interests include:
 ## 🎓 Education
 
 **Seoul National University** | *Sep. 2024 – Present*  
-M.S. in Data Science (Expected Aug. 2026)  
+M.S. in Data Science (Advisor: Yohan Jo)  
 
 
 **Korea University** | *Mar. 2018 – Sep. 2024*  
