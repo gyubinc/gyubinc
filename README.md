@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyubinc&layout=compact&theme=dracula)
+
 ## 👋 Hi, I'm Gyubin Choi
 
 **Data Science Researcher** | Large Language Models | Knowledge Editing | Mixture-of-Experts
