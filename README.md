@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Pay%20it%20forward&fontSize=55&descSize=30)
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyubinc&layout=compact&theme=dracula)
+
 
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyubinc&layout=compact&theme=dracula)
+
 # 📚 Interested in
 
 **Knowledge Editing**
