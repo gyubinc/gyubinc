@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gyubinc.github.io-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://gyubinc.github.io)
 [![Email](https://img.shields.io/badge/Email-yeppi315@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeppi315@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-gyubinc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyubinc)
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-gyubinc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyubinc) -->
 
 </div>
 
