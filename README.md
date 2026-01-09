@@ -65,7 +65,7 @@ Haewon Park, Gyubin Choi
 ## 🏆 Awards
 
 - **Second Prize** | Population Forecasting Model Accuracy Comparative Analysis Competition, Hwaseong (Dec. 2023)
-- **President's Award** | KOSIPER, Korea (Nov. 2023)
+- **Chair's Award** | KOSIPER, Korea (Nov. 2023)
 - **Outstanding Paper Presentation Award** | KOSIPER, Korea (Feb. 2023)
 - **Capstone Excellence Award** | Korea University (Feb. 2023)
 
