@@ -43,7 +43,7 @@ B.S. in Industrial and Management Engineering
 
 ## 💼 Experience
 
-**VAIV Company** | Research Intern | *Jul. 2025 – Present*  
+**VAIV Company** | Research Intern | *Jul. 2025 – Dec. 2025*  
 
 **HOLI Lab, Seoul National University** | Research Intern | *Dec. 2023 – Sep. 2024*  
 
