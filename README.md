@@ -58,7 +58,7 @@ B.S. in Industrial and Management Engineering
 
 **KL for a KL: On-Policy Distillation with Control Variate Baseline**  
 Minjae Oh, Sangjun Song, Gyubin Choi, Yunho Choi, Yohan Jo  
-*ICML 2026 Workshop*
+*NeurIPS 2026*
 
 **TriBench-Ko: Evaluating LLM Risks in Judicial Workflows**  
 Haesung Lee\*, Gyubin Choi\*, Eun-Ju Lee, So-Min Lee, YouKang Ko, Dogyoon Lim, Sung-Kyoung Jang, Yohan Jo  
