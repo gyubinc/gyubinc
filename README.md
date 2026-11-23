@@ -39,7 +39,7 @@ I'm interested in making LLMs more reliable, efficient, and safe to deploy.
 
 - **Context-Robust Knowledge Editing for Language Models**  
   \*Haewon Park, \***Gyubin Choi**, Minjun Kim, Yohan Jo  
-  *ACL 2025 Findings* · [📄 Paper](https://aclanthology.org/2025.findings-acl.540/)
+  *ACL 2025 Findings*
 
 - **Scenario-Based Risk Evaluation Framework for Financial Agent Systems**  
   **Gyubin Choi**, Yohan Jo  
